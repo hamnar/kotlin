@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinRecyclerview</string>
+    <string name="search">Search</string>
+    <string name="create_items">Create Items</string>
+    <string name="search_hint">Type name…</string>
+
+</resources>

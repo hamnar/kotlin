@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by M1028379 on 18/12/2019
+  ~ Copyright (c) CARTUS B2B 2019 .
+  ~ All rights reserved.
+  ~ Last modified 12/17/19 3:05 PM
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_margin="7dp"
+        android:indeterminate="true"
+        android:indeterminateTint="#fff"
+        android:indeterminateTintMode="src_atop" />
+
+</RelativeLayout>
